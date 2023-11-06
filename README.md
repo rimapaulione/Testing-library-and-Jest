@@ -4,12 +4,12 @@
 
 ## Key points of the project:
 
-Learned about testing React Components using React Testing Library and Jest
-Understood how to simulate user events and data fetching in a test environment
-Verified components with tests before deploying
-Practical, hands-on experience adding tests to a large React project
-Tried building own custom Jest matchers
-Focused on learning why best practices exist - and when to break them!
+- Learned about testing React Components using React Testing Library and Jest;
+- Understood how to simulate user events and data fetching in a test environment;
+- Verified components with tests before deploying;
+- Practical, hands-on experience adding tests to a large React project;
+- Tried building own custom Jest matchers;
+- Focused on learning why best practices exist - and when to break them;
 
 Runs the tests:
 
